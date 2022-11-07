@@ -1,0 +1,28 @@
+.navigation {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #f80;
+}
+
+.navigation h1 {
+  margin-right: auto;
+  text-transform: uppercase;
+  letter-spacing: 1.2;
+  font-size: 1.6rem;
+}
+
+.navigation a {
+  color: #fff;
+}
+
+.navigation ul {
+  display: flex;
+}
+
+.navigation ul li {
+  margin-right: 15px;
+  text-transform: uppercase;
+}
